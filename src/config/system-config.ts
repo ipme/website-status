@@ -1,13 +1,13 @@
 export default {
   // 显示标题
-  siteName: 'USKK Web Status',
+  siteName: 'Web Status',
   /*
    * API接口地址：
    * UptimeRobot官方默认（限制1分钟10次请求）：https://api.uptimerobot.com/v2/getMonitors
    * 本项目（5分钟缓存）https://status-api.insectmk.work/
    * */
   //apiUrl: 'https://status-api.insectmk.work/',
-  apiUrl: 'https://uptimerobot-api.debian.workers.dev/',
+  apiUrl: 'https://uptimerobot-api.debian.workers.dev',
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   apiKeys: [
