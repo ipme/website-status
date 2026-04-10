@@ -1,6 +1,6 @@
 export default {
   // 显示标题
-  siteName: 'Web Status',
+  siteName: 'Status',
   /*
    * API接口地址：
    * UptimeRobot官方默认（限制1分钟10次请求）：https://api.uptimerobot.com/v2/getMonitors
