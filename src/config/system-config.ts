@@ -7,7 +7,7 @@ export default {
    * 本项目（5分钟缓存）https://status-api.insectmk.work/
    * */
   //apiUrl: 'https://status-api.insectmk.work/',
-  apiUrl: 'https://upx-status.ifca.eu.org',
+  //apiUrl: 'https://upx-status.ifca.eu.org',
   apiUrl: 'https://uptimerobot-api.debian.workers.dev',
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
